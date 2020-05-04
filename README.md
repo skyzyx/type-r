@@ -8,10 +8,8 @@ Use `themes/Type-R.tmTheme`.
 
 ## Sublime Text
 
-Install the `Type-R` extension from Package Control.
+[Install the `Type-R` extension](https://packagecontrol.io/packages/type-r).
 
 ## VS Code
 
-Install the `Type-R` extension.
-
-<https://marketplace.visualstudio.com/items?itemName=ryan-parman.type-r>
+[Install the `Type-R` extension](https://marketplace.visualstudio.com/items?itemName=ryan-parman.type-r).

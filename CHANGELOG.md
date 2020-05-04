@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## 1.0.0 - 2020-05-03
+## 20.5.3 - 2020-05-03
 
 * Initial release on GitHub.
 * Forked from "Monokai" in Textmate back in 2007.

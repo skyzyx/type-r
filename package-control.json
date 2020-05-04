@@ -1,0 +1,13 @@
+{
+    "name": "Type-R",
+    "details": "https://github.com/skyzyx/type-r",
+    "labels": [
+        "theme"
+    ],
+    "releases": [
+        {
+            "sublime_text": "*",
+            "tags": true
+        }
+    ]
+}

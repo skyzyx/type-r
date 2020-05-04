@@ -3,6 +3,8 @@
     "displayName": "Type-R",
     "description": "A Monokai derivative theme.",
     "version": "20.5.3",
+    "publisher": "ryan-parman",
+    "repository": "https://github.com/skyzyx/type-r",
     "engines": {
         "vscode": "^1.44.0"
     },

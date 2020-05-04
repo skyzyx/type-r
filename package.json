@@ -1,0 +1,21 @@
+{
+    "name": "type-r",
+    "displayName": "Type-R",
+    "description": "A Monokai derivative theme.",
+    "version": "20.5.3",
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Type-R",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Type-R-color-theme.json"
+            }
+        ]
+    }
+}
